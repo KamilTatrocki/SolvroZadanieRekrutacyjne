@@ -26,7 +26,7 @@ function App() {
     else
     {
       setFavouriteCocktails((prev) =>
-        prev.filter((item) => item !== element)
+        prev.filter((item) => item.id !== element.id)
       );
     }    
   }
