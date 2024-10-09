@@ -74,7 +74,7 @@ function App() {
 
   useEffect(()=> {
       async function fetchCocktails(){
-          const response = await fetch('https://cocktails.solvro.pl/api/v1/cocktails?page=1&perPage=133')
+          const response = await fetch('https://cocktails.solvro.pl/api/v1/cocktails?page=1&perPage=220')
           const data = await response.json();
           setLoadedCocktails(data.data);
           setDisplayedCocktails(data.data);
