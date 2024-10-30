@@ -1,5 +1,5 @@
 Cocktail Browser Web Application
-A web application for browsing, searching, and discovering cocktails with a user-friendly interface.
+
 
 Project Overview
 This application allows users to explore a list of cocktails, mark favorites, search and filter by specific criteria, and view detailed information about each cocktail, including ingredients. The app is designed with a clean and intuitive user interface, making it easy for users to find and save cocktails they love.
